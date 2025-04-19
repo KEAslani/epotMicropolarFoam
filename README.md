@@ -7,7 +7,7 @@ epotMicropolarFoam is free software: you can redistribute it and/or modify it un
 
 ## Directory structure
 Applications: 
-1. applications/solvers/epotMicropolarFoam/detonationEulerFoam 
+1. applications/solvers/epotMicropolarFoam
 
 Tutorials:
 1. tutorials/artery flow
