@@ -12,6 +12,7 @@ Applications:
 Tutorials:
 1. tutorials/artery flow
 2. tutorials/poiseuille flow
+3. tutorials/aneurysm flow
 
 
 ## Compiling 
@@ -29,7 +30,9 @@ tutorials/artery flow
 or
 tutorials/poiseuille flow
 ./epotMicropolarFoam
-
+or
+tutorials/aneurysm flow
+./epotMicropolarFoam
 
 ## Getting help and reporting bugs
 Please submit a GitHub issue if you found a bug in the program. If you need help with the software or have further questions, contact Kyriaki-Evangelia Aslani: kiriaki022@gmail.com and k.aslani@go.uop.gr.
